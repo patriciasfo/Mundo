@@ -6,4 +6,5 @@ fun main() {
     println("Mensaje para origin de la feature 1")
     println("Mensaje de la feature 3")
     println("Mensaje en develop para actualizar la release")
+    println("Mensaje en hotfix")
 }
